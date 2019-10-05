@@ -1,2 +1,3 @@
 # hello-world
-Hi everyone! Just another person starting GitHub!
+
+Hi to all you programmers (and other adventurous souls who have somehow ended up here)
